@@ -19,8 +19,8 @@ locale                   : "ko"
 title                    : "청춘 일기"
 title_separator          : "-"
 subtitle                 : "내 청춘을 담을 블로그"
-name                     : "제주 한해살이를 목표로 사는 대학생"
-description              : "내 청춘을 담을 블로그."
+name                     : "SmileAgainx2"
+description              : "An amazing website."
 url                      : "https://smileagainx2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "제주 한해살이를 목표로 사는 대학생"
+  name             : SmileAgainx2"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "어제보다 더 나은 사람이 되고 싶은 사람."
+  bio              : "어제보다 더 나은 사람."
   location         : "South Korea"
   email            :
   links:
