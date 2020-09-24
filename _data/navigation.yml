@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Diary"
-    url: https://smileagainx2.github.io/diary
+    url: /diary/
   - title: "Library"
     url: /library/
   - title: "Restaurant"
