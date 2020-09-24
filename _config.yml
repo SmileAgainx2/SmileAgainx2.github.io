@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "청춘 일기"
+title                    : "청춘 기록"
 title_separator          : "-"
 subtitle                 : "내 청춘을 담을 블로그"
 name                     : "SmileAgainx2"
