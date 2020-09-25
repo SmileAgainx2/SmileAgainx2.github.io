@@ -1,5 +1,5 @@
 ---
-title: "나의 청춘기록"
+title: "Diary"
 permalink: /diary/
 layout: category
 taxonomy: diary

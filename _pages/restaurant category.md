@@ -1,5 +1,5 @@
 ---
-title: "맛 집"
+title: "Restaurant"
 permalink: /restaurant/
 layout: category
 taxonomy: restaurant

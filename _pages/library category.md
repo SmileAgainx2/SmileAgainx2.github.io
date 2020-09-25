@@ -1,5 +1,5 @@
 ---
-title: "데일 카네기 인간관계론[Library]"
+title: "Library"
 permalink: /library/
 layout: category
 taxonomy: library
