@@ -1,6 +1,6 @@
 ---
-title:  "[맛집]"
-excerpt: "배고프다."
+title:  "블루밍 파스타[Resataurant]"
+excerpt: "파스타 맛집."
 
 categories:
   - restaurant
@@ -13,4 +13,4 @@ tags:
 last_modified_at: 2020-09-24
 ---
 
-배고프다. 블루밍파스타 맛있다 헤헤
+갈예정
