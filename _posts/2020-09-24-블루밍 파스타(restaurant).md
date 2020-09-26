@@ -1,5 +1,5 @@
 ---
-title:  "블루밍 파스타[Resataurant]"
+title:  "[Resataurant]블루밍 파스타"
 excerpt: "파스타 맛집."
 
 categories:
