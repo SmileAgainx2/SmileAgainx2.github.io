@@ -16,7 +16,7 @@ last_modified_at: 2020-09-24
    
 <!-- * 카카오맵 - 지도퍼가기 -->
 <!-- 1. 지도 노드 -->
-<div id="daumRoughmapContainer1602406442452" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+<div id="daumRoughmapContainer1602409450259" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 
 <!--
 	2. 설치 스크립트
@@ -27,15 +27,17 @@ last_modified_at: 2020-09-24
 <!-- 3. 실행 스크립트 -->
 <script charset="UTF-8">
 	new daum.roughmap.Lander({
-		"timestamp" : "1602406442452",
-		"key" : "22ezy",
-		"mapWidth" : "400",
+		"timestamp" : "1602409450259",
+		"key" : "22e29",
+		"mapWidth" : "500",
 		"mapHeight" : "300"
 	}).render();
 </script>
    
-대구~에 위치해있다.   
-외관과 간판이 내 눈에는 맘에 든다ㅎㅎ   
+대구 달서구 장기로 285에 위치해있다.   
+   
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="블루밍외관"></img><br/>
+외관과 간판이 심플하고 느낌있어서 맘에 든다ㅎㅎ   
 내부 인테리어도 이쁘고 깔끔한편   
 메뉴판인데 여기서 먹어본 메뉴는 ~다.   
 오늘 먹어본 메뉴는 ~이다. 개인적으로 여기서 제일 맛있고 좋아하는 메뉴라 생각한다.   
