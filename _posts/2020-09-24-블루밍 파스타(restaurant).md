@@ -16,7 +16,7 @@ last_modified_at: 2020-09-24
    
 <!-- * 카카오맵 - 지도퍼가기 -->
 <!-- 1. 지도 노드 -->
-<div id="daumRoughmapContainer1602409450259" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+<div id="daumRoughmapContainer1602410447015" class="root_daum_roughmap root_daum_roughmap_landing"></div>
 
 <!--
 	2. 설치 스크립트
@@ -27,9 +27,9 @@ last_modified_at: 2020-09-24
 <!-- 3. 실행 스크립트 -->
 <script charset="UTF-8">
 	new daum.roughmap.Lander({
-		"timestamp" : "1602409450259",
-		"key" : "22e29",
-		"mapWidth" : "500",
+		"timestamp" : "1602410447015",
+		"key" : "22e2b",
+		"mapWidth" : "600",
 		"mapHeight" : "300"
 	}).render();
 </script>
